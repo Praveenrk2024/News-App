@@ -1,6 +1,6 @@
 let cont = document.querySelector(".cont");
 const optconatiner = document.querySelector(".option-container");
-const country = "in";
+const country = "us";
 const options = ["general","entertainment","health","science","sports","technology"];
 
 
